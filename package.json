@@ -1,0 +1,9 @@
+{
+  "name": "contribution-galaxy",
+  "version": "1.0.0",
+  "description": "Dynamic GitHub contribution graph with neon galaxy theme",
+  "main": "api/index.js",
+  "engines": {
+    "node": ">=18"
+  }
+}
